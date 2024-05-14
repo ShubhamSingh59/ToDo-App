@@ -1,0 +1,6 @@
+.kgform{
+    display: flex;
+    margin: 12px;
+    gap: 8px;
+    justify-content: center;
+}

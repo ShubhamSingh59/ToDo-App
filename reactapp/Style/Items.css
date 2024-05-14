@@ -1,0 +1,15 @@
+.kgrow{
+    display: flex;
+    margin: 12px;
+    gap: 8px;
+    justify-content: center;
+}
+.task{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    align-self: center;
+    font-size: 20px;
+}
+.btn{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
