@@ -18,4 +18,5 @@ body {
     align-content: center;
     justify-items: center;
     border: 2px solid rgb(182, 180, 180);
+    /*box-shadow: 2px;*/
 }

@@ -21,7 +21,7 @@ function Inputform({handlesubmit}) {
             <form className='row kgform' onSubmit={newsubmit}>
                 <input className='col-7' placeholder='Task' type="text" value={task} onChange={handlename} />
                 <input className='col-2' type="date" value={taskdate} onChange={handledate} />
-                <button type="submit" className="col-1 btn btn-success">Submit</button>
+                <button type="submit" className="col-1 btn btn-success">Add</button>
             </form>
         </>
     )
